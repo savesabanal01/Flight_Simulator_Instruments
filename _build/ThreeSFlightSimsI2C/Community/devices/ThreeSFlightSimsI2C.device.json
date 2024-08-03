@@ -3,13 +3,14 @@
   "Info": {
     "Label": "3S Flight Sims I2C",
     "Type": "MOBIFLIGHT_ThreeSFlightSimsI2C",
-    "Author": "Mobiflight",
+    "Author": "Save Sabanal",
     "URL": "https://github.com/savesabanal01/",
     "Version": "2.5.1"
   },
   "Config": {
-    "Pins": [],
-    "isI2C": true,
+    "Pins": [
+      
+    ],
     "I2C": {
       "Enabled": true,
       "Addresses": [
